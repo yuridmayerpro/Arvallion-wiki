@@ -1,7 +1,8 @@
 # (string) Title of your wiki
-title: 
+title: "Arvallion wikip"
 # (string) Description of your wiki
-description: 
+description: "Wiki sobre o mundo de Arvallion"
+log_level: info
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
