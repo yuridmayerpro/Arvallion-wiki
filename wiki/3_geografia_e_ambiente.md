@@ -244,11 +244,13 @@ As **Ilhas Flutuantes** são uma maravilha natural e mágica de Arvallion, uma r
 No coração da estrutura das Ilhas Flutuantes estão os **Cristais de Aetherium**, um tipo extremamente raro de mineral mágico encontrado quase exclusivamente nesse arquipélago. Esses cristais são a fonte da levitação das ilhas, emanações de Mana pura que criam campos antigravitacionais naturais, permitindo que vastos pedaços de terra flutuem acima do mar sem qualquer sustentação física. O Aetherium é um dos minerais mais cobiçados em Arvallion, sendo essencial para a construção de artefatos mágicos, naves aéreas e até mesmo armas de destruição.
 
 **Cristais de Aetherium**
+
 O Aetherium é uma pedra cristalina que brilha com uma luz suave, variando entre tons de azul e violeta. Esses cristais absorvem e armazenam Mana diretamente do ambiente, canalizando-a para gerar campos de energia que desafiam a gravidade. Eles são capazes de levitar não apenas as próprias ilhas, mas também objetos e construções que são imbuídos de seu poder.
 
 Magos e alquimistas acreditam que o Aetherium tem propriedades que vão além da simples levitação, incluindo a capacidade de amplificar magias e servir como condutores para feitiços extremamente complexos. No entanto, o uso excessivo ou incorreto dos cristais pode resultar em desastres, como surtos de Mana descontrolada ou o colapso dos campos gravitacionais. O estudo e a extração do Aetherium são, portanto, atividades altamente regulamentadas pela **Confederação das Ilhas Flutuantes**, que controla todo o comércio e exploração desses minerais.
 
 **Aetherium e Tecnologia**
+
 Além de manter as ilhas suspensas no ar, o Aetherium é a base para muitas das invenções mágicas de Arvallion. As **goletas voadoras**, embarcações que flutuam pelos céus de Valdoria, utilizam Aetherium em seus núcleos mágicos para navegar pelas correntes aéreas e se manterem suspensas. Esses navios são essenciais para o transporte entre as Ilhas Flutuantes, uma vez que o voo é o único meio seguro de acesso a muitas dessas ilhas elevadas.
 
 As ilhas também abrigam oficinas alquímicas e laboratórios de magia avançada, onde o Aetherium é usado para criar dispositivos de levitação, armas mágicas e artefatos protetores. Alguns magos conseguiram criar **autômatos movidos por Aetherium**, seres mecânicos animados pela energia contida nos cristais. Essas criações, porém, são perigosamente instáveis, e há relatos de autômatos que se rebelaram contra seus criadores, guiados por uma estranha consciência que parece surgir da própria Mana.
@@ -260,21 +262,25 @@ As ilhas também abrigam oficinas alquímicas e laboratórios de magia avançada
 As Ilhas Flutuantes não são apenas um milagre natural; elas são o **centro intelectual e mágico** de Valdoria. Governadas pela **Confederação das Ilhas Flutuantes**, uma aliança de magos, alquimistas e estudiosos, elas funcionam como um refúgio onde o estudo e o uso da magia não só são permitidos, mas incentivados em sua forma mais pura e experimental. Ao contrário de outros reinos, como Eldoria, onde o uso de magia é controlado e regulado, nas Ilhas Flutuantes, os magos desfrutam de uma liberdade quase irrestrita para explorar os limites da Mana e da magia.
 
 **A Confederação das Ilhas Flutuantes**
+
 A Confederação é composta por um conselho de magos e alquimistas, cada um representando uma das maiores ilhas do arquipélago. Eles governam de forma colegiada, com base em um delicado equilíbrio de poder e respeito mútuo entre suas diferentes facções. No entanto, há sempre uma tensão subjacente dentro da Confederação, já que muitos magos possuem suas próprias agendas, buscando controlar mais do precioso Aetherium ou avançar em seus experimentos pessoais.
 
 O **Conselho Supremo de Magia**, o órgão máximo da Confederação, rege as leis que ditam o uso da magia e a pesquisa com Aetherium. Ele também atua como mediador em disputas internas entre magos, e é responsável por garantir que as Ilhas Flutuantes mantenham sua neutralidade política em relação aos conflitos entre Eldoria e Kaaran, uma tarefa que se torna cada vez mais desafiadora à medida que ambos os reinos tentam influenciar o Conselho por meio de alianças secretas e diplomacia velada.
 
 **As Academias de Magia**
+
 As Ilhas Flutuantes abrigam algumas das mais prestigiadas **Academias de Magia** de Arvallion, centros de aprendizado onde magos de todo o continente vêm para estudar. Entre as mais renomadas está a **Torre de Eterion**, localizada na maior das ilhas flutuantes. A Torre é um monumento de pedra branca e prata que se eleva para o céu, quase parecendo tocar as estrelas. Dentro de suas câmaras, são ensinadas todas as formas de magia, desde as mais elementares até as escolas mais avançadas de **magia rúnica** e **magia dimensional**.
 
 As academias das Ilhas Flutuantes são focadas no desenvolvimento e experimentação da magia. Muitas vezes, esses estudos envolvem pesquisas perigosas, como a manipulação direta de Mana pura ou a tentativa de abrir portais para outros planos. Por essa razão, acidentes mágicos não são incomuns nas ilhas, e há registros de explosões arcanas que criaram fissuras temporais ou que fizeram partes inteiras das ilhas desaparecerem momentaneamente em outra dimensão.
 
 **Laboratórios de Alquimia e Pesquisa**
+
 Além da magia convencional, as Ilhas Flutuantes são um centro de inovação alquímica. As **Oficinas de Alquimia** são responsáveis pela criação de algumas das mais potentes poções, explosivos e artefatos mágicos de Arvallion. Os alquimistas das ilhas combinam ciência e magia de maneiras que desafiam as convenções estabelecidas em outros lugares, criando novas formas de energia e matéria. Alguns tentam até mesmo descobrir o segredo da **transmutação**, a arte de transformar metais comuns em ouro ou de criar vida artificial, uma prática perigosa e controversa.
 
 A pesquisa com **Aetherium** também leva ao desenvolvimento de tecnologias avançadas, como **portais mágicos**, que permitem o teletransporte entre diferentes ilhas, e **barreiras antigravitacionais**, que protegem as ilhas de invasões ou quedas bruscas. Contudo, muitos desses experimentos carregam riscos significativos, com o potencial de liberar quantidades perigosas de Mana ou criar falhas no tecido da realidade.
 
 **A Vida nas Ilhas**
+
 Embora as Ilhas Flutuantes sejam conhecidas principalmente por seu refúgio de magos e alquimistas, também há uma população considerável de cidadãos comuns que vivem nas ilhas. As ilhas são sustentadas por um sistema de agricultura mágica, onde as plantações flutuam em campos suspensos no ar e são irrigadas por nuvens controladas magicamente. O clima nas ilhas é geralmente temperado, embora instável, devido às interferências contínuas da Mana.
 
 Os cidadãos que habitam as Ilhas Flutuantes estão, em sua maioria, envolvidos de alguma forma com a magia ou a ciência. Muitos são artesãos que trabalham na criação de artefatos mágicos, construtores de goletas voadoras, ou estudam sob a tutela de magos mais experientes. Há também uma classe de mercadores especializados no comércio de **Cristais de Aetherium**, cujos mercados são visitados por negociantes de todo Arvallion, incluindo os reinos de Eldoria e Kaaran.
@@ -286,6 +292,7 @@ Os cidadãos que habitam as Ilhas Flutuantes estão, em sua maioria, envolvidos 
 Apesar de sua aparente serenidade, as Ilhas Flutuantes escondem seus próprios perigos e mistérios. Embora as ilhas sejam protegidas por barreiras mágicas, falhas ocasionais nessas defesas podem fazer com que criaturas misteriosas invadam as ilhas.
 
 **Serpentes do Aether**
+
 Essas são criaturas mágicas, invisíveis a olho nu, que vivem nas correntes de Mana que envolvem as ilhas. As **Serpentes do Aether** são entidades etéreas que deslizam pelas correntes mágicas, sendo atraídas por altas concentrações de Aetherium. Embora não sejam necessariamente agressivas, elas são altamente imprevisíveis, e sua presença pode causar falhas nas barreiras mágicas que sustentam as ilhas.
 
 Quando perturbadas, as Serpentes do Aether podem causar enormes rajadas de energia mágica, desestabilizando a levitação das ilhas menores. Exploradores e magos caçam essas criaturas para
@@ -293,6 +300,7 @@ Quando perturbadas, as Serpentes do Aether podem causar enormes rajadas de energ
  tentar entender sua conexão com a Mana e com o Aetherium, mas muitos desses esforços resultam em fracasso, com desaparecimentos misteriosos ou surtos de Mana descontrolada.
 
 **Cicatrizes de Mana**
+
 Devido aos experimentos contínuos com Mana nas Ilhas Flutuantes, **Cicatrizes de Mana** — fendas no tecido da realidade — podem se formar. Essas fendas mágicas levam a dimensões desconhecidas ou abrem portais temporais, muitas vezes trazendo criaturas ou influências alienígenas para as ilhas. Os magos da Confederação tentam, constantemente, selar essas cicatrizes, mas algumas delas permanecem, sendo vigiadas de perto por guardiões mágicos que evitam que o caos se espalhe.
 
 ---
@@ -311,11 +319,13 @@ As **Planícies Douradas** são o coração agrícola de Valdoria e uma das regi
 A agricultura nas Planícies Douradas é essencial para a sobrevivência de Valdoria. Graças à combinação de solos ricos em nutrientes e um clima temperado, a região é capaz de produzir colheitas abundantes de grãos, frutas e vegetais, bem como manter extensas áreas de pastagens para gado e cavalos. Além disso, o uso controlado de magia na agricultura — uma prática incentivada e regulamentada pelo **Reino de Eldoria** — permitiu que as Planícies se tornassem um exemplo de prosperidade sustentável, com técnicas agrícolas que equilibram a produção eficiente e o respeito aos ciclos naturais.
 
 **A Magia da Terra**
+
 Nas Planícies Douradas, a magia tem uma conexão direta com a fertilidade da terra. **Magos da Terra**, treinados em Eldoria, são frequentemente chamados para realizar rituais que revigoram o solo após cada ciclo de colheita, garantindo que a terra continue fértil e produtiva. Esses rituais envolvem a canalização de Mana diretamente no solo, fortalecendo a conexão entre a terra e as forças naturais. Além disso, a **magia de cura** é usada para tratar doenças em plantações e gado, evitando pragas e garantindo safras saudáveis.
 
 A **Mana Elemental** presente nas Planícies é mais estável do que em outras regiões de Valdoria, permitindo um controle mais seguro e menos arriscado de sua utilização. No entanto, os **Guardadores da Terra**, uma ordem de magos especializados, vigiam de perto o uso de magia agrícola para garantir que não haja excessos que possam perturbar o equilíbrio natural ou corromper a terra com magia descontrolada.
 
 **Produção Abundante**
+
 As Planícies Douradas são conhecidas especialmente pelo cultivo de **trigo dourado**, uma variedade rara e mágica de trigo que cresce exclusivamente nas terras da região. Este trigo é famoso não apenas por sua cor brilhante e seu sabor excepcional, mas também por suas propriedades curativas. Pães feitos a partir desse trigo são altamente nutritivos e, em pequenas quantidades, possuem efeitos curativos, ajudando a acelerar a recuperação de ferimentos e doenças menores. Este trigo é exportado para todo o continente, sendo um dos produtos mais valiosos de Eldoria, tanto para o comércio quanto para as relações diplomáticas.
 
 Além do trigo, as **vinhas mágicas** das Planícies produzem frutos com propriedades alquímicas. As uvas de Miravel, uma variedade rara encontrada apenas aqui, são usadas na criação de poções de rejuvenescimento e são ingredientes chave em muitos elixires curativos. A colheita dessas uvas é um processo delicado e ritualístico, realizado apenas por aqueles que são treinados em manejar as propriedades mágicas das plantas.
@@ -323,6 +333,7 @@ Além do trigo, as **vinhas mágicas** das Planícies produzem frutos com propri
 A produção de gado também é essencial. Os vastos campos permitem a criação de **cavalos Eldorianos**, conhecidos por sua força e resistência, além de sua lealdade incomparável. Esses cavalos são extremamente valorizados por cavaleiros e nobres de todo o continente e são frequentemente exportados como presentes diplomáticos ou vendidos por altos preços em mercados de luxo.
 
 **Pastores e Fazendeiros**
+
 A vida nas Planícies Douradas é pacífica e organizada, com a maioria dos habitantes vivendo em pequenas vilas agrícolas que se espalham pelas colinas. Esses vilarejos, embora simples, são autossuficientes e bem conectados, com sistemas eficientes de irrigação e transporte que facilitam o escoamento das colheitas e o comércio local. Os **fazendeiros Eldorianos** são conhecidos por sua ética de trabalho e por sua devoção à terra e à magia que a nutre. Muitos deles vêm de famílias que há gerações trabalham nas mesmas terras, passando seus conhecimentos agrícolas e mágicos de pais para filhos.
 
 A cultura agrícola nas Planícies é fortemente baseada em ciclos naturais e celebrações sazonais. **Festivais de Colheita**, como o **Festival das Primeiras Espigas**, são eventos grandiosos que reúnem as comunidades locais para celebrar a fartura e a bênção da terra. Durante esses festivais, são realizados rituais de agradecimento aos deuses e à natureza, e a população se envolve em músicas, danças e banquetes que incluem os melhores produtos da região.
@@ -334,6 +345,7 @@ A cultura agrícola nas Planícies é fortemente baseada em ciclos naturais e ce
 As Planícies Douradas são governadas diretamente pelo **Reino de Eldoria**, um dos reinos mais respeitados e poderosos de Valdoria. Eldoria vê as Planícies como a joia de sua coroa, sendo essencial tanto para sua estabilidade econômica quanto para sua reputação diplomática. A **Ordem da Luz Eterna**, baseada em Eldoria, mantém uma presença ativa nas Planícies, garantindo a proteção dos agricultores contra ameaças externas e supervisionando o uso responsável da magia.
 
 **A Proteção de Eldoria**
+
 As Planícies Douradas, apesar de sua prosperidade, são frequentemente alvo de cobiça, especialmente por parte do **Império de Kaaran**, que deseja expandir seu domínio e explorar as riquezas naturais e mágicas da região. Conflitos entre Eldoria e Kaaran já surgiram ao longo da história, e a **Guarda Real de Eldoria** mantém um estado de alerta constante ao longo das fronteiras ocidentais das Planícies. **Fortalezas de vigia**, como a imponente **Torre de Verdan**, foram construídas para proteger as rotas comerciais e as vilas agrícolas de possíveis incursões de Kaaran ou de bandos de saqueadores.
 
 Além das ameaças humanas, há o constante risco de pragas mágicas ou anomalias naturais causadas pelo mau uso da Mana em outras regiões. As **Tempestades de Mana**, embora raras nas Planícies, podem varrer as fronteiras e afetar colheitas inteiras, transformando-as em campos inóspitos ou contaminando o solo. Nesses momentos, os magos de Eldoria são convocados para realizar rituais de purificação, uma prática que fortalece a relação entre a magia e a terra nas Planícies.
@@ -345,12 +357,15 @@ Além das ameaças humanas, há o constante risco de pragas mágicas ou anomalia
 As Planícies Douradas são repletas de pequenas vilas e comunidades agrícolas que funcionam de maneira semi-independente, embora todas sejam subordinadas ao governo de Eldoria. Cada vila é organizada em torno de uma grande praça central, onde ocorre o comércio local e onde os rituais agrícolas são realizados. Essas comunidades têm uma forte tradição de cooperação, com vizinhos ajudando uns aos outros durante a colheita e nas estações mais difíceis.
 
 **Vila de Valden**
+
 Uma das mais famosas vilas das Planícies é a **Vila de Valden**, conhecida por seus campos infinitos de trigo dourado e por produzir os melhores pães de todo o continente. Valden também abriga a **Casa dos Guardadores**, uma ordem local de magos que vigiam o uso da magia nas fazendas ao redor. A vila prospera com o comércio do trigo e de outros produtos agrícolas, atraindo mercadores de Eldoria e de além das fronteiras.
 
 **Vila de Miravel**
+
 Já a **Vila de Miravel** é famosa por suas vinhas mágicas, responsáveis pela produção das uvas usadas em elixires e poções. O processo de colheita em Miravel é cercado por rituais antigos, e os fazendeiros da vila são respeitados em todo o reino por sua habilidade em manipular as propriedades alquímicas das plantas que cultivam. Miravel, devido à sua importância no fornecimento de ingredientes mágicos, também é protegida por guardiões da Ordem da Luz Eterna, que garantem que o comércio e a produção continuem fluindo em segurança.
 
 **Vilas na Fronteira**
+
 Nas fronteiras das Planícies, especialmente ao norte e oeste, as comunidades são mais militarizadas, com vilas como **Ravenor** abrigando pequenas guarnições para proteger as rotas comerciais das ameaças que descem das **Montanhas dos Titãs** ou de incursões de Kaaran. Essas vilas frequentemente mantêm treinamentos regulares para seus habitantes, e muitos jovens se alistam como cavaleiros de Eldoria, garantindo que a linha defensiva das Planícies esteja sempre forte e pronta para responder a qualquer ameaça.
 
 ---
@@ -362,6 +377,7 @@ Apesar de sua relativa paz e prosperidade, as Planícies Douradas estão no cent
  a tomar medidas preventivas para garantir que o equilíbrio de poder em Valdoria não seja perturbado.
 
 **Conflito com Kaaran**
+
 O **Império de Kaaran** é a maior ameaça externa às Planícies Douradas. Kaaran, com sua ambição de controle total sobre as fontes de Mana e recursos naturais, há muito tempo tenta enfraquecer Eldoria por meio de pressões econômicas e políticas. O trigo dourado é particularmente visado pelo império, que tenta replicar sua produção em suas terras áridas ao sul. Até agora, esses esforços falharam, mas as tensões continuam altas, com Eldoria aumentando sua presença militar nas fronteiras para se proteger contra possíveis invasões.
 
 #### **Rotas Comerciais**
@@ -385,26 +401,31 @@ Mais do que uma simples barreira geográfica, o Mar de Sombra é uma força pró
 O Mar de Sombra é lar de criaturas tão antigas quanto o próprio mundo, algumas das quais podem ter precedido até mesmo os Primordiais. Essas bestas, conhecidas por sua imensa força e letalidade, se escondem nas profundezas insondáveis do oceano, raramente emergindo à superfície, mas sempre espreitando os navios que se atrevem a navegar em suas águas. Alguns dizem que essas criaturas são guardiãs das fronteiras entre o mundo mortal e o espiritual, enquanto outros acreditam que elas são apenas monstros sobreviventes de uma era esquecida.
 
 **Leviatã da Sombra**
+
 A mais temida de todas as criaturas que habitam o Mar de Sombra é o **Leviatã da Sombra**, um monstro marinho colossal que, segundo as lendas, pode alcançar o tamanho de uma cidade inteira. Com escamas negras como a noite e olhos brilhando em um tom vermelho sinistro, o Leviatã raramente é visto em sua totalidade, mas suas aparições são sempre seguidas de destruição. Marinheiros contam que o mar parece ganhar vida ao redor da criatura, com as ondas formando tentáculos de água escura que arrastam navios inteiros para as profundezas.
 
 O Leviatã é mais do que uma simples fera física — há rumores de que ele possui uma inteligência sombria, capaz de sentir o medo de suas vítimas e manipulá-las. Alguns afirmam que ele é um **avatar das trevas**, uma manifestação da Mana corrompida que flui sob o Mar de Sombra, enquanto outros o consideram um guardião que protege segredos antigos ocultos nas profundezas do oceano.
 
 **Serpentes do Abismo**
+
 Em menor escala, mas igualmente temíveis, estão as **Serpentes do Abismo**, criaturas longas e sinuosas que deslizam entre as correntes ocultas sob as águas. Com corpos cobertos de escamas negras iridescentes e mandíbulas que se abrem em várias direções, essas serpentes são predadores extremamente ágeis e vorazes. Elas caçam em grupos, atacando navios de surpresa e destroçando suas quilhas com mordidas afiadas como lâminas.
 
 As Serpentes do Abismo são também conhecidas por sua **habilidade em gerar névoa**. Ao emergirem, essas criaturas exalam uma névoa escura que se espalha rapidamente, confundindo a tripulação dos navios e fazendo com que percam a noção de direção. Navegadores experientes afirmam que quando a névoa dessas serpentes cobre um navio, os gritos das vítimas são abafados e, em minutos, o navio desaparece, tragado para sempre pelo oceano.
 
 **Krakens da Névoa**
+
 Os **Krakens da Névoa** são entidades quase míticas, gigantescas e temidas por todos os que atravessam o Mar de Sombra. Eles não são vistos com frequência, mas suas lendas se espalham entre os marinheiros como advertências terríveis. Esses seres têm tentáculos imensos que podem se estender por centenas de metros, capazes de envolver e esmagar navios inteiros. Eles são conhecidos por surgir de forma repentina nas áreas mais densas de névoa, arrastando embarcações para as profundezas sem deixar rastros.
 
 O que torna os Krakens da Névoa particularmente assustadores é sua aparente habilidade de **controlar o ambiente ao seu redor**, convocando ventos e correntes marinhas para desorientar suas presas. Acredita-se que os Krakens tenham uma conexão ancestral com a Mana das águas profundas, e que suas aparições estejam ligadas à **Grande Ruptura**, sugerindo que eles podem ser remanescentes de uma era em que os Primordiais governavam Arvallion.
 
 **Sirenas das Trevas**
+
 As **Sirenas das Trevas** são criaturas de beleza sobrenatural, capazes de hipnotizar qualquer ser humano com suas vozes encantadoras. Essas criaturas habitam as águas mais rasas do Mar de Sombra, especialmente próximas às **ilhas fantasma**, pequenos pedaços de terra que aparecem e desaparecem conforme a névoa se move. Elas assumem a forma de belas mulheres, mas em sua verdadeira natureza são monstruosas, com pele acinzentada, olhos vazios e longas garras que podem rasgar carne com facilidade.
 
 As Sirenas são predadoras astutas, usando seus cantos para atrair marinheiros até as bordas de seus navios ou para desviar a rota de embarcações para recifes ocultos. Quando suas vítimas estão suficientemente próximas, elas atacam com ferocidade, arrastando os infelizes para as profundezas. Diz-se que as Sirenas das Trevas não matam por necessidade, mas por prazer, e que seus lares estão cheios de ossos de marinheiros e tesouros afundados.
 
 **Fantasmas do Mar**
+
 Além das criaturas físicas, o Mar de Sombra também é assombrado por **Fantasmas do Mar**, aparições espectrais de antigos navios e suas tripulações. Essas entidades são vistas navegando silenciosamente pela névoa, seus cascos podres e suas velas esfarrapadas movendo-se sem qualquer vento visível. Esses **Navios Fantasmas** são ditos ser tripulados pelos espíritos dos que pereceram no mar, condenados a vagar eternamente sem descanso.
 
 Navegar próximo a esses navios é extremamente perigoso. Há relatos de tripulações que desapareceram após cruzar o caminho de um navio fantasma, como se fossem absorvidas pela tripulação espectral, tornando-se parte da maldição. Aqueles que conseguem escapar relatam uma sensação de frio profundo e uma voz sussurrante que os chama para as profundezas, tentando atraí-los para um destino semelhante.
@@ -416,11 +437,13 @@ Navegar próximo a esses navios é extremamente perigoso. Há relatos de tripula
 A névoa que paira sobre o Mar de Sombra é muito mais do que uma simples condensação de vapor de água. Ela é uma manifestação mágica, dotada de uma consciência própria, capaz de alterar a percepção daqueles que se aventuram em suas águas. Esta névoa não é constante, mas surge e desaparece com uma frequência que ninguém pode prever. Sua presença traz consigo uma sensação de inquietação, como se a realidade se tornasse instável dentro de seu alcance.
 
 **A Névoa da Perdição**
+
 A névoa mais comum no Mar de Sombra é chamada de **Névoa da Perdição** pelos marinheiros. Ela aparece de forma repentina, cobrindo tudo em seu caminho com uma escuridão densa e opressiva. Dentro dessa névoa, é impossível distinguir o horizonte, o que frequentemente faz com que navios se percam. A bússola se torna inútil, girando de forma descontrolada, e até os feitiços de navegação são afetados, falhando ao tentar discernir a direção correta.
 
 Dentro da Névoa da Perdição, o tempo parece se distorcer. Dias podem parecer horas, e horas podem parecer dias. Muitos navegadores acreditam que essa névoa é uma forma de teste, um desafio imposto pelos Primordiais ou pelos próprios deuses para aqueles que ousam cruzar o Mar de Sombra. Aqueles que passam tempo demais na névoa começam a experimentar alucinações — alguns relatam ouvir vozes de entes queridos que já morreram, enquanto outros veem visões de lugares e tempos que não poderiam conhecer.
 
 **A Névoa Negra**
+
 Mais rara e infinitamente mais perigosa é a **Névoa Negra**, uma variante da névoa comum que parece consumir tudo ao seu redor. Ao contrário da Névoa da Perdição, a Névoa Negra suprime a magia, neutralizando qualquer tentativa de conjurar feitiços e drenando lentamente a Mana dos magos que nela entram. Aqueles que navegam pela Névoa Negra relatam sentir uma opressão sufocante, como se uma presença invisível estivesse pressionando seus corpos e mentes.
 
 A Névoa Negra também é associada ao desaparecimento de navios inteiros. Dizem que a
@@ -428,6 +451,7 @@ A Névoa Negra também é associada ao desaparecimento de navios inteiros. Dizem
  névoa envolve lentamente a embarcação, silenciando todos os sons, até que ela desaparece completamente, sem deixar vestígios. Alguns afirmam que a Névoa Negra é uma **porta para outro plano**, onde as almas dos perdidos no mar são levadas para nunca mais retornar.
 
 **Ilhas Fantasma**
+
 Em meio à névoa, surgem as **Ilhas Fantasma**, pequenas extensões de terra que aparecem e desaparecem conforme a névoa se move. Essas ilhas são miragens, mas ao mesmo tempo são reais, existindo em uma realidade fluida. Aqueles que desembarcam em uma dessas ilhas relatam uma sensação de deslocamento, como se o tempo fluísse de maneira diferente. Algumas dessas ilhas são povoadas por ruínas de civilizações antigas, e há lendas de que elas guardam tesouros incalculáveis ou até artefatos dos Primordiais.
 
 Contudo, explorar as Ilhas Fantasma é um risco terrível. Assim como surgem repentinamente, elas também desaparecem da mesma forma, levando qualquer um que esteja nelas de volta para o mar ou para lugares desconhecidos. Algumas dessas ilhas parecem estar sob a influência de feitiços poderosos, que confundem a mente dos visitantes e os fazem esquecer quem são ou por que vieram.
