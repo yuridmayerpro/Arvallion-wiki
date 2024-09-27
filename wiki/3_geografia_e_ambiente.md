@@ -197,6 +197,7 @@ Essas tempestades são altamente imprevisíveis e extremamente perigosas, pois p
 Sob as dunas escaldantes e nas profundezas do Deserto de Ashmar repousam **ruínas antigas**, vestígios de civilizações que existiram muito antes da ascensão dos reinos atuais de Valdoria. Essas ruínas são altamente cobiçadas por exploradores, magos e pelo **Império de Kaaran**, que governa a região com um regime autoritário. Kaaran, uma nação centrada no controle da Mana, investe vastos recursos na busca por esses locais, acreditando que as ruínas de Ashmar guardam artefatos e segredos que poderiam alterar o curso da história.
 
 **Cidades Perdidas dos Primordiais**
+
 A maior parte das ruínas escondidas sob Ashmar está relacionada à época da **Era dos Deuses**, quando os **Primordiais** ainda caminhavam sobre Arvallion. Entre as mais procuradas estão as chamadas **Cidades Perdidas**, complexos subterrâneos que se acredita terem sido erguidos pelos servos diretos dos Primordiais ou por civilizações mortais que os veneravam.
 
 Essas cidades estão cobertas por camadas de areia e tempo, mas algumas estruturas ocasionalmente emergem à superfície após grandes tempestades, revelando templos de pedra negra, colossais estátuas e portais cobertos de runas que brilham com uma luz espectral. Os estudiosos de Kaaran acreditam que esses templos contêm **artefatos primordiais** — objetos de poder inconcebível, capazes de controlar a Mana em sua forma mais pura.
@@ -204,16 +205,19 @@ Essas cidades estão cobertas por camadas de areia e tempo, mas algumas estrutur
 No entanto, essas ruínas são extremamente perigosas, protegidas por armadilhas mágicas, guardiões antigos e encantamentos que reagem violentamente a qualquer intruso. Alguns acreditam que as ruínas possuem **portais ocultos** para outros planos, ou até mesmo entradas para o **plano espiritual**, onde os Primordiais aguardam a oportunidade de retornar ao mundo físico.
 
 **A Fortaleza de Ash-Narath**
+
 Uma das ruínas mais notórias do deserto é a **Fortaleza de Ash-Narath**, uma estrutura imponente e praticamente intacta, que emerge do deserto como uma cicatriz de tempos antigos. Ash-Narath é conhecida por ser o centro de operações de um poderoso senhor da guerra que reinou antes da Grande Ruptura, um mago que supostamente dominou as forças mais sombrias da Mana e tentou desafiar os Primordiais.
 
 A Fortaleza está protegida por **Arautos de Ashmar**, seres místicos que emergem durante as tempestades, guiando — ou desorientando — os que tentam se aproximar da estrutura. Os Arautos são seres ambíguos, vistos como espíritos ou avatares do próprio deserto, que podem ser aliados para aqueles que compreendem seus sinais, ou adversários letais para os impuros que buscam o poder contido na fortaleza. Dentro de Ash-Narath, acredita-se que ainda reside o **Cetro do Fogo Sombrio**, uma arma lendária forjada com a Mana corrompida das profundezas de Ashmar, capaz de invocar tempestades de fogo e areia ao comando de seu portador.
 
 **Túneis Ocultos e Labirintos de Cristal**
+
 Debaixo da superfície arenosa do deserto, há uma vasta rede de **túneis ocultos e labirintos de cristal**, formados naturalmente pela combinação da Mana e os movimentos sísmicos que moldam as dunas. Essas passagens subterrâneas, embora perigosas e instáveis, são frequentemente exploradas por nômades e expedições em busca de cristais valiosos ou relíquias esquecidas.
 
 Os **Cristais de Mana**, que crescem nas paredes dessas cavernas subterrâneas, são tanto uma bênção quanto uma maldição. Sua colheita é vital para a economia e a tecnologia de Kaaran, mas os túneis são altamente instáveis, e a presença contínua de Mana bruta os torna voláteis. Frequentemente, os túneis colapsam ou liberam surtos mágicos que transformam os exploradores em **corrompidos**, seres mutantes que perdem sua humanidade e se tornam criaturas caóticas e violentas.
 
 **Biblioteca das Areias**
+
 Escondida em algum lugar nas profundezas do deserto está a lendária **Biblioteca das Areias**, um complexo que, segundo dizem, guarda o conhecimento de eras passadas, protegido por encantamentos que o ocultam de qualquer mapa ou explorador. A Biblioteca, segundo os Nômades das Areias, teria sido construída pelos últimos servos dos Primordiais, em um esforço para preservar o conhecimento perdido da Era dos Deuses.
 
 Dizem que aqueles que conseguem encontrar a Biblioteca das Areias podem acessar tomos de magia antiga, encantamentos esquecidos e profecias não reveladas, mas também correm o risco de serem destruídos pela mesma sabedoria proibida que buscam. Além disso, é dito que a própria Biblioteca é viva, alterando sua estrutura e seus corredores como se fosse uma criatura, afastando aqueles que não são dignos de entrar.
