@@ -10,7 +10,7 @@ Valdoria é um continente geograficamente diversificado, dividido em regiões co
 
 **1\. As Montanhas dos Titãs (Norte)**
 
-No extremo norte de Valdoria ergue-se a majestosa e imponente Cadeia das Montanhas dos Titãs, um conjunto de picos escarpados que toca os céus e serve como uma barreira natural entre as terras civilizadas do sul e o misterioso e inóspito norte. As Montanhas dos Titãs são um símbolo de resistência e mistério, lar de criaturas antigas e perigosas, como os temidos Dracomantes, descendentes de dragões, e os Anões do Sul, mestres ferreiros que cavaram seus lares e forjas nas profundezas das montanhas.
+No extremo norte de Valdoria ergue-se a majestosa e imponente Cadeia das Montanhas dos Titãs, um conjunto de picos escarpados que toca os céus e serve como uma barreira natural entre as terras civilizadas do sul e o misterioso e inóspito norte. As Montanhas dos Titãs são um símbolo de resistência e mistério, lar de criaturas antigas e perigosas, como os temidos Dracomantes, descendentes de dragões, e os Anões do Norte, mestres ferreiros que cavaram seus lares e forjas nas profundezas das montanhas.
 
 Essas montanhas não são apenas uma barreira física, mas também mística. Elas abrigam antigas ruínas de civilizações perdidas e templos dedicados aos Primordiais, os seres cósmicos que moldaram Arvallion. A magia flui intensamente nessa região, tornando-a uma zona instável, onde tempestades de Mana podem ocorrer, liberando rajadas de energia mágica caótica que deformam o ambiente e suas criaturas.
 
