@@ -1,4 +1,4 @@
-## 3 Geografia e Ambiente
+## Geografia e Ambiente
 
 ### Continente Central: Valdoria
 

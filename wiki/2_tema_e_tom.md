@@ -1,4 +1,4 @@
-## 2 Tema e Tom
+## Tema e Tom
 
 ### A Luta entre o Bem e o Mal em Arvallion
 

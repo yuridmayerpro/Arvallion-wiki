@@ -1,4 +1,4 @@
-## 7 Magia e Tecnologia
+## Magia e Tecnologia
 
 Em **Arvallion**, a magia permeia todos os aspectos da vida. Através da **Mana**, a energia primordial criada pelas **Entidades Primordiais**, as civilizações não apenas desenvolveram práticas místicas, mas também criaram tecnologias extraordinárias, que combinam as leis naturais com o poder mágico. A relação entre magia e tecnologia molda a economia, a cultura e o poder político de Arvallion, tornando-se uma força inevitável e essencial para a sobrevivência das nações.
 

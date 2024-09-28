@@ -1,4 +1,4 @@
-## 5 Política, Cultura e Sociedade em Arvallion
+## Política, Cultura e Sociedade em Arvallion
 
 Arvallion é um mundo onde a política, a cultura e a sociedade são moldadas pela magia e pelos conflitos que emergem das interações entre as diversas nações, raças e civilizações. Entre as principais civilizações que dominam o cenário de Valdoria, o **Reino de Eldoria** é o símbolo da luz, da justiça e do equilíbrio. Governado por uma monarquia justa e sustentado por uma elite de cavaleiros sagrados, Eldoria se destaca como uma nação que busca harmonia e ordem em meio às ameaças crescentes do mundo.
 

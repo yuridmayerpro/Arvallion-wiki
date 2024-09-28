@@ -1,4 +1,4 @@
-## 8 Raças e Relações
+## Raças e Relações
 
 ### Raças de Arvallion
 

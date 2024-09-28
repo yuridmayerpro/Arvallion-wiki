@@ -1,4 +1,4 @@
-## 1. Introdução a Arvallion
+## Introdução a Arvallion
 
 ### Visão geral do mundo
 

@@ -1,4 +1,4 @@
-### 6 Religião e Filosofia
+### Religião e Filosofia
 
 
 A religião e a filosofia desempenham um papel central em **Arvallion**, moldando não apenas a vida espiritual de suas diversas culturas, mas também a maneira como a sociedade vê o mundo, a Mana e o poder que permeia todas as coisas. Cada civilização possui suas próprias crenças e rituais, frequentemente em torno da **Mana** e das **Entidades Primordiais**, que são vistas como as forças responsáveis pela criação do mundo. Essas crenças se entrelaçam com as estruturas políticas e culturais, definindo a maneira como os diferentes povos se relacionam entre si e com o próprio universo. A busca por equilíbrio, a tensão entre luz e trevas, e o papel do poder mágico são temas recorrentes tanto nas religiões quanto nas filosofias das nações de Arvallion.

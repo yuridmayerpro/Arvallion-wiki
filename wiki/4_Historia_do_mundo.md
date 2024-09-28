@@ -1,4 +1,4 @@
-## 4 História do Mundo
+## História do Mundo
 
 
 A história de Arvallion é tecida por eras de glória e destruição, momentos de profunda harmonia e caos devastador. No centro de tudo estão as **Entidades Primordiais**, seres cósmicos e imensuráveis que moldaram a realidade com suas mãos divinas e suas vontades incompreensíveis. A criação de Arvallion é uma história grandiosa, onde o tempo e o espaço ainda eram maleáveis, e o que hoje chamamos de mundo começou como uma faísca de energia primordial.
