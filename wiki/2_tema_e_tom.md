@@ -1,6 +1,6 @@
 ## 2 Tema e Tom
 
-### 2.1 A Luta entre o Bem e o Mal em Arvallion
+### A Luta entre o Bem e o Mal em Arvallion
 
 A luta entre o bem e o mal em Arvallion não é simplesmente uma batalha entre luz e trevas, mas sim uma disputa multifacetada, moldada por uma longa história de conflitos, sacrifícios e decisões morais. Este embate perpassa tanto o plano físico quanto o espiritual, envolvendo nações, ordens, seitas e até mesmo as forças cósmicas ancestrais que governaram o mundo nos tempos primordiais. Diferente de um conflito maniqueísta, a luta entre o bem e o mal em Arvallion reflete o equilíbrio frágil que mantém o mundo em ordem, onde o bem nem sempre é puro e o mal nem sempre é absoluto.
 

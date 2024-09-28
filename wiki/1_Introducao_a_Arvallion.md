@@ -1,6 +1,7 @@
-## 1 Introdução a Arvallion
+## 1. Introdução a Arvallion
 
-### 1.1 Visão geral do mundo
+### Visão geral do mundo
+
 Arvallion é um vasto e complexo mundo de fantasia medieval, onde a magia ancestral e forças cósmicas desempenham papéis centrais na vida cotidiana e na formação das nações. No coração deste universo está o continente de Valdoria, uma terra diversificada que abriga uma variedade de regiões geográficas únicas, cada uma com suas próprias características culturais, políticas e mágicas.
 
 Valdoria é dividida em várias áreas distintas, como as majestosas **Montanhas dos Titãs**, que se erguem imponentes no norte e servem como barreira natural entre as terras civilizadas e as regiões inexploradas. As **Planícies Douradas** no centro do continente são conhecidas por suas terras férteis e pela prosperidade agrícola que sustenta o **Reino de Eldoria**, uma monarquia respeitada por seus cavaleiros sagrados e seu compromisso com a liberdade e o equilíbrio.
@@ -9,43 +10,12 @@ Ao sul, o **Deserto de Ashmar** estende-se vasto e árido, dominado pelo **Impé
 
 Nas alturas celestiais, as **Ilhas Flutuantes** brilham como joias mágicas suspensas no ar, abrigando a **Confederação das Ilhas Flutuantes**, uma aliança de magos dedicados ao estudo e à preservação do conhecimento mágico. O **Mar de Sombra**, envolto em névoas perpetuas, é um oceano perigoso habitado por criaturas monstruosas e forças desconhecidas, representando tanto um desafio quanto uma fonte de mistério para os habitantes de Valdoria.
 
-A energia primordial, conhecida como **Mana**, é a força vital que permeia todo Arvallion, sustentando a magia e influenciando o desenvolvimento tecnológico e social das diferentes raças. A Mana é extraída de **Cristais de Mana**, recursos altamente valorizados e disputados, especialmente entre Eldoria e Kaaran, cujas tensões políticas e econômicas frequentemente culminam em conflitos.
+### A energia primordial e a magia que permeia tudo
 
-Arvallion é habitado por uma diversidade de raças, incluindo os poderosos **Dracomantes**, meio-humanos meio-dragões com controle sobre o fogo; os espirituais **Silvanos**, protetores das florestas; os habilidosos **Anões do Sul**, mestres ferreiros e mineiros; e os resilientes **Nômades das Areias**, humanos adaptados ao deserto com domínio sobre magias de vento e areia. Cada raça contribui para a rica tapeçaria cultural e política de Arvallion, coexistindo em um equilíbrio delicado entre alianças e rivalidades.
+A energia primordial, conhecida como **Mana**, é a força vital que permeia todo Arvallion, sustentando a magia e influenciando o desenvolvimento tecnológico e social das diferentes raças. A Mana é extraída de **Cristais de Mana**, recursos altamente valorizados e disputados pelas diversas nações e facções de Arvallion, sendo utilizada tanto para propósitos mágicos quanto para avanços tecnológicos.
 
-Os temas centrais de Arvallion giram em torno da eterna luta entre o bem e o mal, explorando questões como o preço do poder, a tensão entre liberdade e controle, e o equilíbrio entre luz e trevas. Este ambiente repleto de mistérios, intrigas políticas e aventuras épicas oferece um cenário ideal para narrativas envolventes e complexas, onde heróis e vilões moldam o destino do mundo.
-
-Com uma história marcada por eras de prosperidade e períodos de caos, Arvallion continua a evoluir, aguardando que novos protagonistas surjam para desvendar seus segredos, enfrentar ameaças antigas e deixar sua marca neste universo fascinante e dinâmico.
-
-### 1.2 A energia primordial e a magia que permeia tudo
-
-Em Arvallion, a **energia primordial**, conhecida como **Mana**, é a força vital que sustenta e conecta todos os aspectos do mundo. Esta energia antiga e divina é a essência da magia, permeando cada ser, objeto e fenômeno natural, desde as menores partículas de ar até as mais grandiosas formações geográficas.
-
-**Origem da Energia Primordial**
-
-A Mana foi criada pelas **Entidades Primordiais**, seres cósmicos de poder incomensurável que deram origem a Arvallion durante a **Era dos Deuses**. Estas entidades canalizaram a energia primordial para moldar o mundo, estabelecendo as leis naturais e espirituais que governam a existência. A Mana é intrinsecamente ligada à criação, sendo a fonte de toda a magia e a base para a vida em Arvallion.
-
-**Natureza e Fluxo da Mana**
-
-A Mana flui através de todos os elementos de Arvallion, manifestando-se de diversas formas:
-
-- **Elemental**: Controla os elementos naturais como fogo, água, terra e ar, permitindo aos magos manipular o ambiente.
-- **Rúnica**: Utiliza símbolos antigos para canalizar e concentrar a Mana, criando feitiços poderosos e encantamentos.
-- **Antiga**: Baseada em feitiços e rituais herdados das Entidades Primordiais, esta forma de magia é rara e extremamente poderosa.
-
-A distribuição da Mana não é uniforme; certas regiões, como as **Ilhas Flutuantes** e a **Floresta de Mirval**, possuem concentrações mais altas, servindo como centros de poder mágico e locais de estudo para magos e estudiosos.
-
-**Uso e Consequências da Magia**
-
-A prática da magia em Arvallion está sujeita a regras e limitações rigorosas. O uso excessivo ou irresponsável da Mana pode levar ao **esgotamento**, resultando em fadiga, perda de sanidade e, em casos extremos, na morte. Este equilíbrio delicado garante que a magia, embora poderosa, não se torne uma ferramenta de abuso sem consequências.
-
-Magos e praticantes da magia devem treinar intensivamente para controlar e canalizar a Mana de forma eficaz. As escolas de magia, como as encontradas em Kaaran e nas Ilhas Flutuantes, ensinam técnicas avançadas para manejar a energia primordial, enfatizando a importância da disciplina e do respeito pelas forças que manipulam.
-
-**Influência da Magia na Tecnologia e na Sociedade**
-
-A Mana não apenas alimenta os feitiços e encantamentos, mas também influencia diretamente o desenvolvimento tecnológico em Arvallion. A combinação de magia e tecnologia resultou em invenções notáveis, como:
-
-- **Goletas Flutuantes**: Navios que utilizam Mana para voar, permitindo a travessia de longas distâncias e o acesso a áreas anteriormente inexploráveis.
+- **Cristais de Mana**: A principal fonte de poder mágico e econômico, controlada por diferentes facções.
+- **Goletas Voadoras**: Navios que utilizam Mana para voar, permitindo a travessia de longas distâncias e o acesso a áreas anteriormente inexploráveis.
 - **Autômatos Mágicos**: Criaturas mecânicas animadas pela Mana, utilizadas em tarefas diversas, desde a defesa até a mineração.
 - **Artefatos Rúnicos**: Itens mágicos imbuídos com Mana, proporcionando habilidades especiais e protegendo seus portadores de perigos diversos.
 
