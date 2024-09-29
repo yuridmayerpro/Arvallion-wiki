@@ -398,3 +398,11 @@ screen and (max-width: 480px) {
 body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
   mix-blend-mode: difference;
 }
+
+
+body.darkmode--activated iframe.video-embed {
+  background-color: initial !important;
+  filter: none !important;
+  border: none !important;
+  mix-blend-mode: normal !important; /* Evita mistura de cores no dark mode */
+}
