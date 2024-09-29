@@ -1,3 +1,9 @@
+---
+title: "Temas e Questões Filosóficas"
+order: 11
+---
+
+
 ## Temas e Questões Filosóficas
 
 ### O Preço do Poder

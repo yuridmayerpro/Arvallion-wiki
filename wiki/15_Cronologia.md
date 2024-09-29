@@ -1,3 +1,8 @@
+---
+title: "Cronologia"
+order: 15
+---
+
 ## Cronologia
 
 A história de Arvallion é marcada por grandes eventos que moldaram as civilizações e mudaram o destino do mundo. Abaixo, uma linha do tempo detalhada dos principais momentos históricos, organizando a ascensão e queda de impérios, a evolução das raças e as grandes batalhas que determinaram o equilíbrio do poder em Arvallion.

@@ -1,3 +1,8 @@
+---
+title: "Bestiário"
+order: 13
+---
+
 ## Bestiário
 
 ### Criaturas e Monstros

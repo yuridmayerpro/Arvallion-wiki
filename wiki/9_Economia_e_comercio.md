@@ -1,3 +1,8 @@
+---
+title: "Economia e Comércio"
+order: 9
+---
+
 ## Economia e Comércio
 
 A economia em Arvallion é tão diversa quanto suas nações e culturas, variando de sistemas feudais tradicionais a práticas mercantilistas mais avançadas e com uma forte influência da magia em todas as áreas de produção e troca. Os diferentes reinos e facções adotam sistemas econômicos que refletem suas culturas, valores e estruturas políticas, resultando em uma rede de comércio altamente interconectada e, ao mesmo tempo, competitiva. As disputas por recursos, como os **Cristais de Mana**, são centrais para muitos dos conflitos que ocorrem entre as nações de Arvallion.

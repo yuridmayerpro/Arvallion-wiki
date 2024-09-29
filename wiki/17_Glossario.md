@@ -1,3 +1,8 @@
+---
+title: "Glossário"
+order: 17
+---
+
 ## Glossário
 
 ### Termos e Conceitos Importantes

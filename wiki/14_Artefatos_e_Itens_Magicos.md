@@ -1,3 +1,8 @@
+---
+title: "Artefatos e Itens Mágicos"
+order: 14
+---
+
 ## Artefatos e Itens Mágicos
 
 O mundo de Arvallion é repleto de artefatos e itens mágicos que foram criados em diferentes eras, muitos dos quais possuem conexões diretas com as forças primordiais ou com as grandes civilizações do passado. Esses artefatos são altamente cobiçados por magos, reis e aventureiros, não apenas por seus poderes, mas também pelo conhecimento que podem proporcionar.

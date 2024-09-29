@@ -1,3 +1,8 @@
+---
+title: "Estilo e Representação Visual"
+order: 12
+---
+
 ## Estilo e Representação Visual
 
 A estética e a representação visual do mundo de Arvallion refletem profundamente suas culturas, geografias, e as interações mágicas que moldaram o ambiente. Cada local, cidade e região possui uma identidade visual única, entrelaçando elementos arquitetônicos, naturais e mágicos que representam a história e os valores de seus habitantes. As civilizações mais poderosas, como Eldoria e Kaaran, e as regiões místicas, como Mirval e as Ilhas Flutuantes, expressam essa diversidade de formas imponentes, carregadas de simbolismo e beleza. As paisagens de Arvallion são tão vibrantes e misteriosas quanto suas intrigas e conflitos.

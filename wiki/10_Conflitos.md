@@ -1,3 +1,8 @@
+---
+title: "Conflitos"
+order: 10
+---
+
 ## Conflitos
 
 ### Conflito Principal: Eldoria vs. Kaaran
