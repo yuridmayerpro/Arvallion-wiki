@@ -119,6 +119,20 @@ As Montanhas dos Titãs representam não apenas um desafio físico para aqueles 
 
 ### Floresta de Mirval
 
+
+<figure style="float: left; margin-right: 20px; width: 270px; text-align: center;">
+  <iframe 
+    src="https://www.youtube.com/embed/DS6z1W89bCw?si=0TjGHfThp_lG5X6i" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen
+    style="width: 100%; height: 500px; border: none;">
+  </iframe>
+</figure>
+
+
 A **Floresta de Mirval** é um dos locais mais antigos e misteriosos de todo o continente de Valdoria, estendendo-se como um vasto e denso manto de árvores antigas que parecem quase conscientes de sua longevidade. Envolta em um véu de misticismo, esta floresta é muito mais do que um mero aglomerado de vegetação. Sua história remonta aos tempos dos **Primordiais**, as entidades cósmicas que moldaram Arvallion, e acredita-se que Mirval tenha sido tocada diretamente por eles, tornando-se um local de magia ancestral, repleto de segredos guardados pelas árvores, pelo solo e pelos seres que ali habitam.
 
 **Mistérios e Segredos**
@@ -130,6 +144,8 @@ A Floresta de Mirval é uma região envolta em lendas, onde o véu entre o plano
 Nenhum mapa de Mirval é completamente confiável, pois os **caminhos dentro da floresta são mutáveis**, movidos pela própria vontade da floresta ou pela influência dos **Silvanos**, os guardiões espirituais de Mirval. Trilhas que conduziam a clareiras podem desaparecer da noite para o dia, e rios podem mudar de curso sem aviso. Apenas os **Povos Livres de Mirval** e os Silvanos, que possuem uma conexão espiritual profunda com a floresta, conseguem se orientar sem se perder. Para os forasteiros, caminhar por Mirval é como entrar em um quebra-cabeça místico, onde a natureza é ao mesmo tempo um guia e uma armadilha.
 
 Algumas áreas dentro da floresta são chamadas de **Ninhos da Névoa**, locais onde uma neblina densa e encantada permanece constantemente. Nessas regiões, a visão é limitada, os sons são distorcidos, e o tempo parece fluir de maneira diferente. Reza a lenda que esses locais são **portais naturais** para outros planos, especialmente o plano espiritual dos Primordiais, onde antigos deuses repousam e aguardam o retorno das eras antigas. Muitos aventureiros que tentaram adentrar os Ninhos da Névoa nunca retornaram, e aqueles que o fizeram falam de visões proféticas e encontros com entidades incompreensíveis.
+
+<br><br>
 
 **Ruínas Antigas e Monumentos Esquecidos**
 
