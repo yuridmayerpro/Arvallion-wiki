@@ -3,6 +3,12 @@ redirect_from: "/"
 ---
 
 # O mundo de Arvallion
+
+<div style="text-align: center;">
+  <img src="assets\images\Logo Arvallion 1.png" alt="Arvallion" 
+       style="width: 50%; max-width: 300px; margin-top: 20px; margin-bottom: 20px;">
+</div>
+
 Arvallion é um mundo de fantasia épica onde a magia ancestral e forças cósmicas moldam a existência de todas as criaturas e nações. Este universo é permeado pela **energia primordial**, conhecida como **Mana**, que serve como a base para todos os aspectos da vida e da magia. Criado pelas poderosas **Entidades Primordiais**, Arvallion possui uma rica tapeçaria de culturas, raças e histórias que coexistem em um delicado equilíbrio entre harmonia e conflito.
 
 No coração de Arvallion encontra-se o continente de **Valdoria**, uma terra diversificada que abriga desde vastas planícies férteis até desertos místicos e florestas encantadas. Cada região de Valdoria possui suas próprias características únicas, influenciadas tanto pela geografia quanto pelas diferentes tradições mágicas e políticas das suas populações.

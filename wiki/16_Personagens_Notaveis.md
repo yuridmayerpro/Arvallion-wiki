@@ -11,6 +11,12 @@ Arvallion é um mundo moldado não apenas pelos grandes eventos históricos e ci
 ### Heróis e Vilões
 
 #### Lorde Calen de Eldoria
+
+<figure style="float: left; margin-right: 20px; width: 200px; text-align: center;">
+  <img src="assets/images/personagens/Lorde Calen of Eldoria.webp" alt="Lorde Calen de Eldoria: Agora mais maduro, suas cicatrizes e cabelos grisalhos refletem as batalhas e a sabedoria adquirida ao longo de uma vida dedicada à defesa de Eldoria e seus ideais de honra e luz." style="width: 100%;">
+  <figcaption><em>Lorde Calen de Eldoria</em></figcaption>
+</figure>
+
 - **Título**: Grande Cavaleiro da Ordem da Luz Eterna
 - **Afiliação**: Reino de Eldoria
 - **Biografia**: Lorde Calen é um dos mais venerados heróis de Eldoria, conhecido por sua bravura em batalha e lealdade inabalável ao reino. Calen foi um dos líderes durante a **Guerra contra Kaaran**, onde, à frente dos Cavaleiros Sagrados, enfrentou os exércitos de magos guerreiros e autômatos do Império de Kaaran. Sua habilidade com a espada, bem como sua devoção à Ordem da Luz, inspiraram gerações de guerreiros eldorianos.
@@ -18,6 +24,11 @@ Arvallion é um mundo moldado não apenas pelos grandes eventos históricos e ci
   - Defendeu a cidade de Braventhal do cerco de Kaaran, segurando a linha por três dias até que os reforços de Eldoria chegassem.
   - Foi responsável pela execução do Tratado de Vales Antigos, que garantiu a preservação dos Cristais de Mana nas regiões neutras.
   - Sua morte heroica, durante o **Cerco de Tenebra**, é uma lenda em Eldoria, e sua armadura sagrada é guardada como um artefato precioso no **Santuário da Luz**.
+
+
+<br><br>
+<br><br>
+<br><br>
 
 #### Imperador Korath de Kaaran
 - **Título**: Senhor Supremo do Império de Kaaran

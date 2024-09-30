@@ -9,26 +9,55 @@ order: 13
 
 Arvallion é habitado por uma vasta gama de criaturas e monstros, muitos dos quais estão profundamente conectados à Mana, à geografia única do continente e às eras antigas. Essas criaturas variam de ameaças comuns nas fronteiras das civilizações até horrores ancestrais que habitam os cantos mais inexplorados do mundo. Algumas são produto da magia descontrolada, enquanto outras estão enraizadas em mitos e crenças antigas.
 
-# Dracomantes Corrompidos
+#### Dracomantes Corrompidos
+
+<figure style="float: left; margin-right: 20px; width: 200px; text-align: center;">
+  <img src="assets\images\bestiario\Dracomante corrompido.webp" alt="Dracomante Corrompido: Um ser consumido pela Mana negra, com escamas quebradiças e fogo sombrio, habitante das profundezas das Montanhas dos Titãs." style="width: 100%;">
+  <figcaption><em>Dracomantes Corrompidos</em></figcaption>
+</figure>
 
 Os **Dracomantes Corrompidos** são uma variação dos Dracomantes, que, em vez de viver em harmonia com sua herança dracônica, foram contaminados pela Mana corrupta, tornando-se criaturas perigosamente instáveis. Eles têm a habilidade de cuspir fogo negro, cuja chama drena a energia vital de suas vítimas. Suas escamas, antes resplandecentes, tornaram-se enegrecidas e quebradiças, refletindo o estado caótico de sua magia.
 
 ##### Habitat e Comportamento
 Esses Dracomantes habitam as cavernas mais profundas e isoladas nas **Montanhas dos Titãs**, onde os cristais de Mana corrompida se concentram. Ao contrário de seus primos honrados, os Dracomantes Corrompidos vivem em constante agonia, guiados por uma sede insaciável por poder e destruição. Eles caçam em bandos pequenos e atacam vilarejos próximos, especialmente durante as **Tempestades de Mana**, quando sua conexão com a energia primordial é exacerbada.
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
 #### Gigantes de Gelo
+
+<figure style="float: left; margin-right: 20px; width: 200px; text-align: center;">
+  <img src="assets\images\bestiario\Gigantes de gelo.webp" alt="Gigante de Gelo: Colosso elemental das Montanhas dos Titãs, feito de gelo vivo e com olhos que brilham com o poder da Mana. Sua presença impõe o frio e a força de eras antigas." style="width: 100%;">
+  <figcaption><em>Gigante de Gelo</em></figcaption>
+</figure>
 
 Os **Gigantes de Gelo** são seres colossais que habitam os picos mais altos das Montanhas dos Titãs, onde o frio é implacável e a Mana se manifesta de forma pura e bruta. Com uma pele pálida e quase translúcida, seus corpos são compostos de gelo vivo, e seus corações batem com o poder da Mana elemental.
 
 ##### Habitat e Comportamento
 Esses gigantes reclusos raramente se aventuram além das alturas geladas de sua morada, mas quando o fazem, é para proteger suas terras ou lutar contra uma ameaça que desafia o equilíbrio natural. Extremamente territorialistas, eles atacam qualquer um que ousar perturbar seus domínios. Sua força física é incomparável, e muitos acreditam que a magia congelante de suas terras os protege de magos comuns.
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
 #### Serpentes de Fogo das Cavernas
+
+<figure style="float: left; margin-right: 20px; width: 200px; text-align: center;">
+  <img src="assets\images\bestiario\Serpentes de Fogo das Cavernas.webp" alt="Serpentes de Fogo das Cavernas: Criaturas serpentinas com escamas incandescentes como lava, habitam os subterrâneos vulcânicos de Arvallion, irradiando calor e poder elemental." style="width: 100%;">
+  <figcaption><em>Serpentes de Fogo das Cavernas</em></figcaption>
+</figure>
+
 
 As **Serpentes de Fogo** são criaturas que habitam o subsolo vulcânico de Arvallion, especialmente as cavernas próximas ao **Deserto de Ashmar**. Elas possuem escamas de cor rubra e laranja e são cercadas por uma aura de calor intenso, suficiente para derreter metal e rocha.
 
 ##### Habitat e Comportamento
 Essas serpentes caçam presas que se aproximam de suas tocas subterrâneas e são altamente agressivas, atacando intrusos com jorros de fogo mágico. Elas se alimentam da energia térmica de cristais vulcânicos e, ocasionalmente, de seres vivos, sugando-lhes a energia vital. Suas presas são valorizadas por magos, pois podem ser usadas na criação de poderosas armas de fogo encantadas.
+
+
+<br><br>
 
 #### Vermes Rochosos
 
