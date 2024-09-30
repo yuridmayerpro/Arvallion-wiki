@@ -4,13 +4,11 @@
 
 <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
 
-
-<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-    crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 <script src="{{ '/assets/js/checkLinks.js' | relative_url }}"></script>
 <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+<![endif]-->
 
 <!-- dark mode -->
 <style>
@@ -27,32 +25,66 @@
     }
   </style>
 </noscript>
+
 <script>
+  // Função para aplicar o fundo de acordo com o modo selecionado
   function darkModeSetBodyBg() {
-    if (localStorage.getItem('darkmode')==="true") {
-      console.log("darkmode activated");
-      document.body.style.backgroundColor = "black !important";
+    if (localStorage.getItem('darkmode') === "true") {
+      document.body.style.backgroundColor = "black";
     } else {
-      document.body.style.backgroundColor = ""; // reset background color
+      document.body.style.backgroundColor = ""; // Reseta a cor de fundo para modo claro
     }
   }
 
   function addDarkmodeWidget() {
-
+    // Configurações para o widget de dark mode
     const options = {
-        label: '🌓', // default: ''
-        time: '0s'
-    }
+      label: '🌓',
+      time: '0s', // sem atraso na transição
+      autoMatchOsTheme: true // Não seguir a preferência do sistema, usar localStorage
+    };
 
-    new Darkmode(options).showWidget();
+    const darkmode = new Darkmode(options);
+    darkmode.showWidget();
+
+    // Verificar o estado do localStorage para manter o modo escuro se já selecionado
+    const isDarkMode = localStorage.getItem('darkmode');
+    
+    // Se o modo escuro estiver ativado no localStorage, forçamos a ativação
+    if (isDarkMode === "true") {
+      darkmode.toggle();
+    }
 
     document.body.style.visibility = 'visible';
     document.body.style.opacity = 1;
   }
 
+  // Função que será chamada quando o documento estiver pronto
   $(document).ready(addDarkmodeWidget);
-  
+
+  // Função para remover o efeito de modo escuro do iframe
+function fixIframeDarkMode() {
+    const iframe = document.querySelector('iframe');
+    if (iframe) {
+        iframe.style.filter = 'none';
+        iframe.style.backgroundColor = 'transparent';
+        iframe.style.mixBlendMode = 'normal';
+        iframe.style.zIndex = '9999';
+        iframe.style.isolation = 'isolate';
+    }
+}
+
+// Chama a função ao carregar a página
+window.addEventListener("DOMContentLoaded", fixIframeDarkMode);
+
+// Monitora alterações de classe no body para garantir que o iframe não seja afetado
+const observer = new MutationObserver(() => {
+    fixIframeDarkMode();
+});
+observer.observe(document.body, { attributes: true, attributeFilter: ['class'] });
 </script>
+
+
 
 {% if site.inc_after_scripts %}
 {% include {{ site.inc_after_scripts }} %}

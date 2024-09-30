@@ -10,3 +10,15 @@ No coração de Arvallion encontra-se o continente de **Valdoria**, uma terra di
 A dinâmica entre as diversas nações e raças de Arvallion é marcada por antigas rivalidades, alianças frágeis e a constante luta pelo controle da Mana, recurso vital e poderoso. Este cenário cria um ambiente repleto de aventuras, intrigas e mistérios, onde heróis e vilões emergem para definir o destino do mundo.
 
 Arvallion também explora temas profundos como o **preço do poder**, o **equilíbrio entre bem e mal** e a **tensão entre liberdade e controle**, proporcionando um pano de fundo rico para narrativas complexas e envolventes. Com uma história repleta de eras de glória e períodos de caos, Arvallion oferece um cenário vasto e detalhado para explorar histórias épicas e construir um universo memorável.
+
+<div style="display: flex; justify-content: center; width: 100%;">
+  <iframe 
+    src="https://www.youtube.com/embed/8IB3d10iK7c?si=V-9F4XqtpLk5wpBT" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen
+    style="width: 270px; height: 500px; border: none;">
+  </iframe>
+</div>

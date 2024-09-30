@@ -2,6 +2,7 @@
 @import "rouge-github";
 @import "w3.scss";
 
+
 body {
   /* background-color: #fff; */
   padding: 50px;
@@ -399,10 +400,18 @@ body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
   mix-blend-mode: difference;
 }
 
-
-body.darkmode--activated iframe.video-embed {
-  background-color: initial !important;
+.video-container iframe {
   filter: none !important;
-  border: none !important;
-  mix-blend-mode: normal !important; /* Evita mistura de cores no dark mode */
+  mix-blend-mode: normal !important;
+  opacity: 1 !important;
+}
+
+/* Forçar remoção de filtros e qualquer outro estilo aplicado ao iframe */
+iframe {
+  filter: none !important;               /* Remove qualquer filtro aplicado */
+  background-color: transparent !important;  /* Garante que o fundo seja transparente */
+  mix-blend-mode: normal !important;      /* Garante que as cores normais sejam usadas */
+  z-index: 9999 !important;               /* Força o iframe a ficar no topo */
+  isolation: isolate;                     /* Garante que ele não seja afetado por contextos de mistura */
+  transition: none !important;            /* Remove transições que possam ser aplicadas */
 }
