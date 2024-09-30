@@ -13,7 +13,7 @@ Arvallion também explora temas profundos como o **preço do poder**, o **equil�
 
 <div style="display: flex; justify-content: center; width: 100%;">
   <iframe 
-    src="https://www.youtube.com/embed/8IB3d10iK7c?si=V-9F4XqtpLk5wpBT" 
+    src="https://www.youtube.com/embed/KDn2h01eh9w?si=pgL3BqrymQzHtFuE" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
